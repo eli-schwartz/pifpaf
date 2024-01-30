@@ -1,6 +1,7 @@
 name: Pifpaf
 
 on:
+  push:
   pull_request:
 
 env:
